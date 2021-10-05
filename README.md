@@ -1,0 +1,1 @@
+# delete-any-node-from-LinkedList-in-C
